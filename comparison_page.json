@@ -1,0 +1,42 @@
+{
+    "title": "Product Comparison: GlowBoost Vitamin C Serum vs. DullBeGone Serum",
+    "product_a": "GlowBoost Vitamin C Serum",
+    "product_b": "DullBeGone Serum",
+    "comparison_table": [
+        {
+            "feature": "Price",
+            "product_a_value": "\u20b9699",
+            "product_b_value": "\u20b9499"
+        },
+        {
+            "feature": "Vitamin C Concentration",
+            "product_a_value": "10%",
+            "product_b_value": "5%"
+        },
+        {
+            "feature": "Key Ingredients",
+            "product_a_value": "Vitamin C, Hyaluronic Acid",
+            "product_b_value": "Vitamin C, Aloe Vera"
+        },
+        {
+            "feature": "Target Skin Type",
+            "product_a_value": "Oily, Combination",
+            "product_b_value": "All Skin Types"
+        },
+        {
+            "feature": "Primary Benefits",
+            "product_a_value": "Brightening, Fades dark spots",
+            "product_b_value": "Hydration, Mild Brightening"
+        },
+        {
+            "feature": "How to Use",
+            "product_a_value": "Apply 2-3 drops in the morning before sunscreen",
+            "product_b_value": "Information not provided"
+        },
+        {
+            "feature": "Potential Side Effects",
+            "product_a_value": "Mild tingling for sensitive skin",
+            "product_b_value": "Information not provided"
+        }
+    ]
+}
