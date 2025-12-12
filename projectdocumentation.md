@@ -50,14 +50,14 @@ The system uses a Linear Chain of Execution managed by the main script:
 The project is organized modules to ensure separation of concerns:
 
 kasparro-ai-agentic-content-generation-system/
-├── agents.py             # LangChain definitions & AgentFactory
-├── data.py               # Raw input data repository
-├── logic.py              # Reusable logic blocks & helper functions
-├── main.py               # Orchestrator script
-├── models.py             # Pydantic schemas (JSON Templates)
-├── requirements.txt      # List of dependencies (LangChain, etc.)
-├── README.md             # Setup instructions
-├── projectdocumentation.md  # Architecture documentation
-├── faq.json              # Generated Output
-├── product_page.json     # Generated Output
-└── comparison_page.json  # Generated Output
+├── agents.py              
+├── data.py               
+├── logic.py               
+├── main.py             
+├── models.py         
+├── requirements.txt    
+├── README.md             
+├── projectdocumentation.md  
+├── faq.json              
+├── product_page.json     
+└── comparison_page.json  
