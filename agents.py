@@ -4,7 +4,7 @@ from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 from models import FAQPage, ProductPage, ComparisonPage
 
-GOOGLE_API_KEY = "AIzaSyAd-EkzA7qzQEPPDveAlXjAQjP9PzQSd0Y"
+GOOGLE_API_KEY = "USE_API"
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
